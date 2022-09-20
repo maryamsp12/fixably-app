@@ -1,0 +1,19 @@
+table,
+td {
+    border: 1px solid #0e0d0d;
+}
+table, tr, th, td {
+    border: 1px solid #0e0d0d;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  table {
+    width: 800px;
+    margin-top: 80px;
+  }
+th, td {
+  text-align: center;
+}
